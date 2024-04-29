@@ -72,7 +72,7 @@ nueva_subtarea = crear_sub_tarea("Subtarea de ejemplo", tarea.id)
 ```bash
 print(nueva_subtarea)
 ```
-#5. Eliminar una tarea y sus subtareas:
+# 5. Eliminar una tarea y sus subtareas:
 ## Obtiene la tarea con ID 1
 ```bash
 tarea = tareas.get(pk=1)

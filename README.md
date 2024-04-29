@@ -37,7 +37,7 @@
 
 ### :test_tube: Running Tests
 
-#1. Importar el módulo `services`:
+# 1. Importar el módulo `services`:
 ```bash
 from desafioadl.services import recupera_tareas_y_sub_tareas, crear_nueva_tarea, crear_sub_tarea, elimina_tarea, elimina_sub_tarea, imprimir_en_pantalla
 ```
